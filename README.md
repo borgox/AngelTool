@@ -26,7 +26,7 @@ Lo strumento è composto da due file:
 - Versione: 1.0
 - Licenza: MIT
 
-⚠️ **Attenzione**: Questo strumento non è stato testato in modo esaustivo. Utilizzalo a tuo rischio e pericolo.
+⚠️ **Attenzione**: Questo strumento non è stato testato. Ci potrebbero essere errori e non funzionare.
 
 Si prega di notare che lo strumento interagisce con l'API di Discord e richiede un token Discord valido per l'autorizzazione. Assicurati di avere le autorizzazioni necessarie e utilizza lo strumento in modo responsabile.
 
