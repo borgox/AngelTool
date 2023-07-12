@@ -1,8 +1,8 @@
-# Angel Tool
+# 🌟 Angel Tool 🌟
 
 A Python tool for performing various actions on Discord servers using the Discord API.
 
-## Usage
+## 🚀 Utilizzo
 
 1. Run the `gui.py` file using a Python interpreter.
 2. The GUI window will appear, displaying the tool's interface.
@@ -10,22 +10,24 @@ A Python tool for performing various actions on Discord servers using the Discor
 4. Follow the prompts and input the required information when requested.
 5. The tool will perform the selected action(s) on the specified Discord server.
 
-## Description
+## 👼 Descrizione
 
-The Angel Tool is a Python program designed to automate certain tasks on Discord servers. It utilizes the Discord API to interact with servers and perform actions such as channel deletion, member banning, and more.
+L'Angel Tool è un programma Python progettato per automatizzare determinati compiti sui server Discord. Utilizza l'API di Discord per interagire con i server e eseguire azioni come la cancellazione di canali, il ban degli utenti e altro ancora.
 
-The tool consists of two files:
+Lo strumento è composto da due file:
 
-1. `nuke.py`: Contains the `AngelNuker` class, which encapsulates the functionality for channel deletion, member banning, and other actions. This class provides methods for performing the specified actions on a Discord server.
+1. `nuke.py`: Contiene la classe `AngelNuker`, che racchiude le funzionalità per la cancellazione di canali, il ban degli utenti e altre azioni. Questa classe fornisce metodi per eseguire le azioni specificate su un server Discord.
 
-2. `gui.py`: Implements a graphical user interface (GUI) for the tool using the Tkinter library. The GUI allows users to select the desired action and enter the necessary information to perform the action(s) on a Discord server.
+2. `gui.py`: Implementa un'interfaccia utente grafica (GUI) per lo strumento utilizzando la libreria Tkinter. La GUI consente agli utenti di selezionare l'azione desiderata e inserire le informazioni necessarie per eseguire le azioni su un server Discord.
 
-## Info
+## ℹ️ Info
 
-- Author: borgo
-- Version: 1.0
-- License: MIT
+- Autore: borgo
+- Versione: 1.0
+- Licenza: MIT
 
-Please note that the tool interacts with the Discord API and requires a valid Discord token for authorization. Ensure that you have the necessary permissions and use the tool responsibly.
+⚠️ **Attenzione**: Questo strumento non è stato testato in modo esaustivo. Utilizzalo a tuo rischio e pericolo.
 
-For more information on the Discord API, refer to the official documentation at [https://discord.com/developers/docs/intro](https://discord.com/developers/docs/intro).
+Si prega di notare che lo strumento interagisce con l'API di Discord e richiede un token Discord valido per l'autorizzazione. Assicurati di avere le autorizzazioni necessarie e utilizza lo strumento in modo responsabile.
+
+Per ulteriori informazioni sull'API di Discord, consulta la documentazione ufficiale su [https://discord.com/developers/docs/intro](https://discord.com/developers/docs/intro).
