@@ -27,6 +27,7 @@ Lo strumento è composto da due file:
 - Licenza: MIT
 
 ⚠️ **Attenzione**: Questo strumento non è stato testato. Ci potrebbero essere errori e non funzionare.
+
 ⚠️ **Attenzione**: Questo strumeto è stato fatto per soli scopi informativi e di auto-miglioramento, il creatore non si assume la responsabilità dell'uso di tale strumento.
 Si prega di notare che lo strumento interagisce con l'API di Discord e richiede un token Discord valido per l'autorizzazione. Assicurati di avere le autorizzazioni necessarie e utilizza lo strumento in modo responsabile.
 
